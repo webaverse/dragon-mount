@@ -1,0 +1,12 @@
+{
+  "name": "dragon-mount",
+  "description": "Dragon Mount XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "dragon.glb",
+  "components": [
+    {
+      "type": "sit",
+      "sitBone": "Spine"
+    }
+  ]
+}
