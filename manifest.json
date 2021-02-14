@@ -6,6 +6,7 @@
   "components": [
     {
       "type": "sit",
+      "subtype": "saddle",
       "sitBone": "Spine",
       "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping"
     }
