@@ -1,0 +1,12 @@
+{
+  "name": "dragon-mount",
+  "start_url": "dragon.glb",
+  "components": [
+    {
+      "type": "sit",
+      "subtype": "saddle",
+      "sitBone": "Spine",
+      "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping"
+    }
+  ]
+}
