@@ -3,10 +3,16 @@
   "start_url": "dragon.glb",
   "components": [
     {
-      "type": "sit",
-      "subtype": "saddle",
-      "sitBone": "Spine",
-      "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping"
+      "key": "sit",
+      "value": {
+        "subtype": "saddle",
+        "sitBone": "Spine",
+        "walkAnimation": "Armature|Armature|Hopping|Armature|Hopping",
+        "walkAnimationHoldTime": 1,
+        "walkAnimationSpeedFactor": 0.1,
+        "speed": 0.02,
+        "damping": 0.99
+      }
     }
-  ]
+    ]
 }
