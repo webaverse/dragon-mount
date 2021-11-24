@@ -11,7 +11,7 @@
         "walkAnimationHoldTime": 1,
         "walkAnimationSpeedFactor": 0.1,
         "speed": 0.02,
-        "damping": 0.99
+        "damping": 0.5
       }
     }
     ]
