@@ -3,6 +3,10 @@
   "start_url": "dragon.glb",
   "components": [
     {
+      "key": "physics",
+      "value": true
+    },
+    {
       "key": "sit",
       "value": {
         "subtype": "saddle",
